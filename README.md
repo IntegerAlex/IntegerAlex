@@ -22,14 +22,11 @@
 
 ## ✨ Projects 
 
-* **[Project 1 Title]** - [Short Description] ([Project Link])
-* **[Project 2 Title]** - [Short Description] ([Project Link])
-* ...
+
 
 ## 📫 How to Reach Me
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/akshat-kotpalliwar-554944258/](https://www.linkedin.com/in/akshat-kotpalliwar-554944258/)
 * 📦 **npm:** [https://www.npmjs.com/nigesh](https://www.npmjs.com/nigesh) 
-* 🌐 **Website/Portfolio:** [Your Website URL] (Optional)
 * ✉️ **Email:** inquiry.akshatkotpalliwar@gmail.com
 

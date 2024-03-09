@@ -27,6 +27,6 @@
 ## 📫 How to Reach Me
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/akshat-kotpalliwar-554944258/](https://www.linkedin.com/in/akshat-kotpalliwar-554944258/)
-* 📦 **npm:** [https://www.npmjs.com/nigesh](https://www.npmjs.com/nigesh) 
+* 📦 **npm:** [https://www.npmjs.com/nigesh](https://www.npmjs.com/~nigesh)
 * ✉️ **Email:** inquiry.akshatkotpalliwar@gmail.com
 

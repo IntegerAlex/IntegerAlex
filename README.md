@@ -29,3 +29,6 @@ I'm passionate about building projects that solve real-world problems. Instead o
 
 * 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Kotpalliwar-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/akshat-kotpalliwar-554944258/)
 * ✉️ **Email:** [inquiry.akshatkotpalliwar@gmail.com](mailto:inquiry.akshatkotpalliwar@gmail.com)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IntegerAlex&show_icons=true&theme=black)
+

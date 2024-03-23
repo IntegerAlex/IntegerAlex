@@ -33,6 +33,5 @@ I'm passionate about building projects that solve real-world problems. Instead o
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IntegerAlex&show_icons=true&theme=black) 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IntegerAlex)
 
-[![](https://visitcount.itsvg.in/api?id=IntegerAlex&icon=0&color=0)](https://visitcount.itsvg.in)
 
 

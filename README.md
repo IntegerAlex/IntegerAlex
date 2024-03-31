@@ -20,6 +20,7 @@ I'm passionate about building projects that solve real-world problems. Instead o
 
 - [netflix-recommendation-system](https://github.com/IntegerAlex/netflix-recommendation-system)
 - [disposable-email-detector](https://github.com/IntegerAlex/disposable-email-detector)
+- [user-info-logger](https://github.com/IntegerAlex/user-info-logger)
 
 ## 📦 Package Management
 

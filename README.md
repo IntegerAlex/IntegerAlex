@@ -32,7 +32,7 @@ I'm passionate about building projects that solve real-world problems. Instead o
 * ✉️ **Email:** [inquiry.akshatkotpalliwar@gmail.com](mailto:inquiry.akshatkotpalliwar@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IntegerAlex&show_icons=true&theme=black) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IntegerAlex)
+
 
 
 

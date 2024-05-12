@@ -23,8 +23,8 @@ I'm passionate about building projects that solve real-world problems. Instead o
 
 ## 📦 Package Management
 
-* [![npm](https://img.shields.io/badge/npm-nigesh-red?style=plastic&logo=npm)](https://www.npmjs.com/~nigesh) ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/nigesh?style=plastic)
-* [![PyPI](https://img.shields.io/badge/PyPI-nigesh-blue?style=plastic&logo=python)](https://pypi.org/user/nigesh/)
+* [npm](https://www.npmjs.com/~nigesh) ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/nigesh?style=plastic)
+* [PyPI](https://pypi.org/user/nigesh/)
 
 ## 📫 How to Reach Me
 

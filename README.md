@@ -5,7 +5,7 @@ I'm passionate about building projects that solve real-world problems. Instead o
 ## ⚡ My Skills and Technologies
 
 * ![Linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=linux) ![Debian](https://img.shields.io/badge/-Debian-a80030?style=plastic&logo=debian) ![Red Hat](https://img.shields.io/badge/-Red%20Hat-cc0000?style=plastic&logo=red-hat)
-* ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript) ![Nodejs](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js)
+* ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript) ![Nodejs](https://img.shields.io/badge/-Node.js-green?style=plastic&logo=node.js) *how do you debug node apps? you don't! you just write good code*
 * ![DSA](https://img.shields.io/badge/-DSA-blue?style=plastic) ![C++](https://img.shields.io/badge/-C++-blue?style=plastic&logo=c%2B%2B)
 * ![Cloud](https://img.shields.io/badge/-Cloud-white?style=plastic&logo=google-cloud) ![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker) ![Podman](https://img.shields.io/badge/-Podman-blue?style=plastic&logo=podman)
 * ![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-purple?style=plastic)

@@ -4,11 +4,11 @@ This document outlines the tools and configurations used in my workflow setup.
 
 ## Operating System
 
-- Debian 12 stable
+- [Debian 12 stable](https://www.debian.org/)
 
 ## Window Manager
 
-- i3
+- [i3](https://www.thregr.org/wavexx/software/screenkey/)
 
 ## Text Editors
 

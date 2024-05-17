@@ -15,6 +15,10 @@ This document outlines the tools and configurations used in my workflow setup.
 - Neovim for Programming in general and servers 
 - Visual Studio Code (VSCode) For Web Development 
 
+## Shell
+
+zsh
+
 ## Configuration
 
 - **i3**: Custom keybindings, workspace settings, and preferences.

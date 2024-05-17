@@ -8,12 +8,12 @@ This document outlines the tools and configurations used in my workflow setup.
 
 ## Window Manager
 
-- [i3](https://www.thregr.org/wavexx/software/screenkey/)
+- [i3](https://i3wm.org/)
 
 ## Text Editors
 
-- Neovim 
-- Visual Studio Code (VSCode)
+- Neovim for Programming in general and servers 
+- Visual Studio Code (VSCode) For Web Development 
 
 ## Configuration
 

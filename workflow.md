@@ -17,7 +17,7 @@ This document outlines the tools and configurations used in my workflow setup.
 
 ## Shell
 
-zsh
+- zsh
 
 ## Configuration
 

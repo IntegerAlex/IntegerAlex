@@ -25,6 +25,10 @@ I'm passionate about building projects that solve real-world problems. Instead o
 
 * [npm](https://www.npmjs.com/~nigesh) ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/nigesh?style=plastic)
 * [PyPI](https://pypi.org/user/nigesh/)
+ 
+## 🌍 Open Source Contributions
+
+* I have created and maintain multiple npm packages with a combined download count of over 15,000, used by many in the community. This makes me an active open-source contributor and maintainer.
 
 ## 📫 How to Reach Me
 

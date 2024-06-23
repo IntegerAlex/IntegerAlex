@@ -1,6 +1,8 @@
-#I'm Akshat K
+# I'm Akshat K
 
-I build projects that solve real-world problems. I focus on core principles and engineering solutions tailored to specific challenges.. [My Workflow -> ](/workflow.md)
+I build projects that solve real-world problems. I focus on core principles and engineering solutions tailored to specific challenges..
+
+[My Workflow -> ](/workflow.md)
 
 ## ⚡ My Skills and Technologies
 

@@ -22,7 +22,7 @@ I build projects that solve real-world problems. I focus on core principles and 
 - [netflix-recommendation-system](https://github.com/IntegerAlex/netflix-recommendation-system)
 - [disposable-email-detector](https://github.com/IntegerAlex/disposable-email-detector)
 - [user-info-logger](https://github.com/IntegerAlex/user-info-logger)
-
+- [ts-strict-setup](https://github.com/IntegerAlex/ts-strict-setup)
 ## 📦 Package Management
 
 * [npm](https://www.npmjs.com/~nigesh) ![NPM Downloads](https://img.shields.io/npm-stat/dy/nigesh?style=plastic)
@@ -30,7 +30,7 @@ I build projects that solve real-world problems. I focus on core principles and 
  
 ## 🌍 Open Source Contributions
 
-* I have created and maintain multiple npm packages with a combined download count of over 15,000, used by many in the community. This makes me an active open-source contributor and maintainer.
+* I have created and maintain multiple npm packages with a combined download count of over 50,000 used by many in the community. This makes me an active open-source contributor and maintainer.
 
 ## 📫 How to Reach Me
 

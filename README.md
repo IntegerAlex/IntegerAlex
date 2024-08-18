@@ -2,7 +2,7 @@
 
 I build projects that solve real-world problems. I focus on core principles and engineering solutions tailored to specific challenges..
 
-[My Workflow -> ](/workflow.md)
+[My Workflow -> Configs](/workflow.md)
 
 ## ⚡ My Skills and Technologies
 
@@ -19,6 +19,7 @@ I build projects that solve real-world problems. I focus on core principles and 
 
 ## ✨ Projects 
 
+- [flexr](https://github.com/IntegerAlex/flexr)
 - [netflix-recommendation-system](https://github.com/IntegerAlex/netflix-recommendation-system)
 - [disposable-email-detector](https://github.com/IntegerAlex/disposable-email-detector)
 - [user-info-logger](https://github.com/IntegerAlex/user-info-logger)

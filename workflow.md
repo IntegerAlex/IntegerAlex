@@ -4,27 +4,21 @@ This document outlines the tools and configurations used in my workflow setup.
 
 ## Operating System
 
-- [Debian 12 stable](https://www.debian.org/)
+- Debian 12 stable || RHEL 9 Stable
 
 ## Window Manager
 
-- [i3](https://i3wm.org/)
+- i3
 
-## Text Editors
+## Text Editor
 
-- Neovim for Programming in general and servers 
-- Visual Studio Code (VSCode) For Web Development 
+- Neovim. [Config -> ](https://github.com/IntegerAlex/dotfiles/blob/master/nvim)
 
 ## Shell
 
-- zsh
+- zsh [Config ->](https://github.com/IntegerAlex/dotfiles/blob/master/.zshrc)
+- oh-my-zsh [config ->](https://github.com/IntegerAlex/dotfiles/tree/master/.oh-my-zsh)
 
-## Configuration
-
-- **i3**: Custom keybindings, workspace settings, and preferences.
-- **Neovim**: Plugin configurations, key mappings, and settings.
-- **VSCode**: Extensions, settings, and keybindings.
-- **Screenkey**: No specific configuration required.
 
 
 

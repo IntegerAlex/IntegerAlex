@@ -20,10 +20,11 @@ I build projects that solve real-world problems. I focus on core principles and 
 ## ✨ Projects 
 
 - [flexr](https://github.com/IntegerAlex/flexr)
+- [hasty-server](https://github.com/IntegerAlex/hasty-server)
 - [netflix-recommendation-system](https://github.com/IntegerAlex/netflix-recommendation-system)
 - [disposable-email-detector](https://github.com/IntegerAlex/disposable-email-detector)
 - [user-info-logger](https://github.com/IntegerAlex/user-info-logger)
-- [ts-strict-setup](https://github.com/IntegerAlex/ts-strict-setup)
+
 ## 📦 Package Management
 
 * [npm](https://www.npmjs.com/~nigesh) ![NPM Downloads](https://img.shields.io/npm-stat/dy/nigesh?style=plastic)

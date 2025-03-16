@@ -4,11 +4,11 @@ This document outlines the tools and configurations used in my workflow setup.
 
 ## Operating System
 
-- Debian 12 stable || RHEL 9 Stable
+- Debian 12 & RHEL 9.5 
 
 ## Window Manager
 
-- i3
+- i3 [Config ->](https://github.com/IntegerAlex/dotfiles/blob/master/.config/i3/config)
 
 ## Text Editor
 

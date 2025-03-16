@@ -12,18 +12,13 @@ I build projects that solve real-world problems. I focus on core principles and 
 * ![Cloud](https://img.shields.io/badge/-Cloud-white?style=plastic&logo=google-cloud) ![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker) ![Podman](https://img.shields.io/badge/-Podman-blue?style=plastic&logo=podman)
 * ![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-purple?style=plastic)
 
-## 🌱 Currently Learning / Exploring
-
-* ![Backend Technologies](https://img.shields.io/badge/-Backend%20Technologies-red?style=plastic)
-* ![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-orange?style=plastic)
-
 ## ✨ Projects 
 
 - [flexr](https://github.com/IntegerAlex/flexr)
+- [fingerprint-oss](https://github.com/IntegerAlex/fingerprint-oss)
 - [hasty-server](https://github.com/IntegerAlex/hasty-server)
 - [netflix-recommendation-system](https://github.com/IntegerAlex/netflix-recommendation-system)
 - [disposable-email-detector](https://github.com/IntegerAlex/disposable-email-detector)
-- [user-info-logger](https://github.com/IntegerAlex/user-info-logger)
 
 ## 📦 Package Management
 
@@ -32,7 +27,7 @@ I build projects that solve real-world problems. I focus on core principles and 
  
 ## 🌍 Open Source Contributions
 
-* I have created and maintain multiple npm packages with a combined download count of over 50,000 used by many in the community. This makes me an active open-source contributor and maintainer.
+* I have created and maintain multiple npm packages with a combined download count of over 110,000+ used by many in the community. This makes me an active open-source contributor and maintainer.
 
 ## 📫 How to Reach Me
 

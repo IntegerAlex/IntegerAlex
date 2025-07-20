@@ -31,6 +31,7 @@ I build projects that solve real-world problems. I focus on core principles and 
 
 ## 📫 How to Reach Me
 
+* <a href="https://www.buymeacoffee.com/IntegerAlex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 * 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Kotpalliwar-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/akshat-kotpalliwar-554944258/)
 * ✉️ **Email:** [inquiry.akshatkotpalliwar@gmail.com](mailto:inquiry.akshatkotpalliwar@gmail.com)
 

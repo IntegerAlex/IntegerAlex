@@ -23,7 +23,7 @@ I build projects that solve real-world problems. I focus on core principles and 
 ## 📦 Package Management
 
 * [npm](https://www.npmjs.com/~nigesh) ![NPM Downloads](https://img.shields.io/npm-stat/dy/nigesh?style=plastic)
-* [PyPI](https://pypi.org/user/nigesh/)
+* [PyPI](https://pypi.org/user/IntegerAlex/)
  
 ## 🌍 Open Source Contributions
 

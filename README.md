@@ -31,7 +31,9 @@
 
 | Project | What it does |
 |---------|--------------|
-| [fingerprint-oss](https://github.com/IntegerAlex/fingerprint-oss) | Device fingerprinting & system info for the web — privacy-conscious, deterministic |
+| [Synn](https://synn.gossorg.in/) | Visualize Git history with an interactive graph — branches, commits, merges. Import from GitHub, explore for free. |
+| [SchemaVis](https://schemavis.gossorg.in/) | SQL schema visualizer and editor — upload SQL, get an interactive ER diagram. Saved scripts, secure & private. |
+| [Braindock](https://braindock.in/) | Creative AI workspace — draw, write, code, and learn in one place. Canvas, AI chat, YouTube, focus timer. |
 | [netflix-recommendation-system](https://github.com/IntegerAlex/netflix-recommendation-system) | Recommendation system implementation |
 
 *Star the repos you find useful — it helps others discover them.*

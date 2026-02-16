@@ -34,6 +34,9 @@
 | [Synn](https://synn.gossorg.in/) | Visualize Git history with an interactive graph — branches, commits, merges. Import from GitHub, explore for free. |
 | [SchemaVis](https://schemavis.gossorg.in/) | SQL schema visualizer and editor — upload SQL, get an interactive ER diagram. Saved scripts, secure & private. |
 | [Braindock](https://braindock.in/) | Creative AI workspace — draw, write, code, and learn in one place. Canvas, AI chat, YouTube, focus timer. |
+| [rig](https://github.com/IntegerAlex/rig) | Opinionated system setup tool with essential tools for any Linux distribution. No custom configs, just what you need. |
+| [curlpad](https://github.com/IntegerAlex/curlpad) | Tiny terminal scratchpad for crafting and running curl commands with Vim/Neovim autocomplete. |
+| [Advance Image Viewer](https://github.com/IntegerAlex/advance-image-viewer) | AI-enhanced image visualization with cursor-based zoom and Google Gemini multimodal integration for intelligent manipulation. |
 | [netflix-recommendation-system](https://github.com/IntegerAlex/netflix-recommendation-system) | Recommendation system implementation |
 
 *Star the repos you find useful — it helps others discover them.*
@@ -48,11 +51,11 @@
 
 | Package | Description | Downloads |
 |---------|-------------|-----------|
-| [asyncutilsx](https://pypi.org/project/asyncutilsx/) | ASGI wrapper for combining FastAPI and Socket.IO in one app • *Sole owner* • Last released Feb 13, 2026 | ![PyPI - Downloads](https://img.shields.io/pypi/dm/asyncutilsx?style=flat) |
-| [kakashi](https://pypi.org/project/kakashi/) | High-performance logging utility for Python applications with advanced features • *Sole owner* • Last released Feb 5, 2026 | ![PyPI - Downloads](https://img.shields.io/pypi/dm/kakashi?style=flat) |
-| [pygcprofiler](https://pypi.org/project/pygcprofiler/) | See Python's garbage collector in action without getting in its way. Zero-overhead GC monitoring for production applications. • *Sole owner* • Last released Dec 3, 2025 | ![PyPI - Downloads](https://img.shields.io/pypi/dm/pygcprofiler?style=flat) |
-| [ifscfinder](https://pypi.org/project/ifscfinder/) | High-performance IFSC code lookup utilities backed by SQLite. • *Sole owner* • Last released Nov 10, 2025 | ![PyPI - Downloads](https://img.shields.io/pypi/dm/ifscfinder?style=flat) |
-| [indiapincodefinder](https://pypi.org/project/indiapincodefinder/) | Find detailed Indian address information by 6-digit PIN code. Ideal for logistics, address validation, fintech (KYC), e-commerce, and mapping. • *Sole owner* • Last released Aug 5, 2025 | ![PyPI - Downloads](https://img.shields.io/pypi/dm/indiapincodefinder?style=flat) |
+| [asyncutilsx](https://pypi.org/project/asyncutilsx/) | ASGI wrapper for combining FastAPI and Socket.IO in one app | ![PyPI - Downloads](https://img.shields.io/pypi/dm/asyncutilsx?style=flat) |
+| [kakashi](https://pypi.org/project/kakashi/) | High-performance logging utility for Python applications with advanced features | ![PyPI - Downloads](https://img.shields.io/pypi/dm/kakashi?style=flat) |
+| [pygcprofiler](https://pypi.org/project/pygcprofiler/) | See Python's garbage collector in action without getting in its way. Zero-overhead GC monitoring for production applications | ![PyPI - Downloads](https://img.shields.io/pypi/dm/pygcprofiler?style=flat) |
+| [ifscfinder](https://pypi.org/project/ifscfinder/) | High-performance IFSC code lookup utilities backed by SQLite. | ![PyPI - Downloads](https://img.shields.io/pypi/dm/ifscfinder?style=flat) |
+| [indiapincodefinder](https://pypi.org/project/indiapincodefinder/) | Find detailed Indian address information by 6-digit PIN code. Ideal for logistics, address validation, fintech (KYC), e-commerce, and mapping.| ![PyPI - Downloads](https://img.shields.io/pypi/dm/indiapincodefinder?style=flat) |
 
 ### npm ([nigesh](https://www.npmjs.com/~nigesh))
 

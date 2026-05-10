@@ -1,5 +1,4 @@
 # I'm Akshat K
-
 <!--START_SECTION:stars-->
 <p align="center">
   <a href="https://github.com/IntegerAlex?tab=repositories" target="_blank">
@@ -86,3 +85,4 @@ I maintain **11+ packages** on npm and PyPI with **300k+ downloads**—used by d
   <img src="https://github-readme-stats.vercel.app/api?username=IntegerAlex&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntegerAlex&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" width="350" />
 </p> -->
+[![Akshat Kotpalliwar profile views](https://u8views.com/api/v1/github/profiles/84370725/views/day-week-month-total-count.svg)](https://u8views.com/github/IntegerAlex)
